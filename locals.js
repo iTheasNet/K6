@@ -20,7 +20,7 @@ export let options = {
 export default function () {
     group("Swagger RestFull Front page", function () {
         let res = http.get(
-            "http://www.msn.com"
+            "http://www.msdn.com"
         );
         check(res, {
             "is status 200": r => r.status === 200
