@@ -1,1 +1,1 @@
-# K6  Teodora B
+# K6  Teodora Ole
